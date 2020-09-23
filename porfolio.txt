@@ -1,2 +1,4 @@
 This is my portfolio for stocks
 
+portfolio consists of airtel,alembic pharma
+
